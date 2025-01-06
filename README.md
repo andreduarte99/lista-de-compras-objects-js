@@ -4,7 +4,7 @@ Projeto desenvolvido com JS, utilizando objetos e localStorage.
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **Lista de Compŕas**
+| :sparkles: Nome        | **Lista de Compras**
 | :label: Tecnologias | JavaScript
 | :rocket: URL         | https://andreduarte99.github.io/lista-de-compras-objects-js/
 | :fire: Desafio     | https://cursos.alura.com.br/course/javascript-manipulando-objetos
