@@ -6,7 +6,7 @@ Projeto temporizador estilo Pomodoro em JavaScript manipulação do DOM.
 | -------------  | --- |
 | :sparkles: Nome        | **Lista de Compŕas**
 | :label: Tecnologias | JavaScript
-| :rocket: URL         | https://andreduarte99.github.io/projeto-fokus/
+| :rocket: URL         | https://andreduarte99.github.io/lista-de-compras-objects-js/
 | :fire: Desafio     | https://cursos.alura.com.br/course/javascript-manipulando-objetos
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 
