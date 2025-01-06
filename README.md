@@ -1,6 +1,6 @@
 # Lista de Compras
 
-Projeto temporizador estilo Pomodoro em JavaScript manipulação do DOM.
+Projeto desenvolvido com JS, utilizando objetos e localStorage.
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
